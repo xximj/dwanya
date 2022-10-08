@@ -1,0 +1,20 @@
+{
+    "registration_approved_subject": "🎉 تم قبول طلب التسجيل لـ {username}",
+    "registration_denied": "🤦🏻‍♂️ تم رفض طلب التسجيل",
+    "application_question_required": "يجب عليك الإجابة على الأسئلة إذا كانت تريد تقديم طلب تسجيل.",
+    "email_verified_subject": "تم التحقق من البريد الإلكتروني لـ {username}",
+    "email_verified_body": "تم التحقق من بريدك الإلكتروني، شكراً لك مرة أخرى.",
+    "notification_post_reply_body": "<h2>تم الرد على منشورك</h2><div> {username} : {comment_text} </div> <br> <a href=\"{inbox_link}\">انتقل إلى صندوق الوارد</a>",
+    "password_reset_body": "<h1> لقد تم طلب إعادة تعيين كلمة المرور لـ {username} </h1> <br> <a href=\"{reset_link}\">انقر هنا لإعادة تعيين كلمة المرور</a> إذا كنت أنت من قام بإرسال الطلب",
+    "notification_private_message_subject": "💌 رسالة خاصة من {username}",
+    "notification_mentioned_by_subject": "🚩 قام {username} بالإشارة إليك",
+    "registration_approved_body": "تمت الموافقة على طلب التسجيل الخاص بك. مرحبًا بك في {hostname}!",
+    "password_reset_subject": "إعادة تعيين كلمة المرور لـ {username}",
+    "verify_email_body": "الرجاء النقر فوق الرابط أدناه للتحقق من عنوان بريدك الإلكتروني للحساب @{username} على {hostname}. الرجاء تجاهل هذا البريد الإلكتروني إذا لم يكن هذا الحساب يخصك. <br><br><a href=\"{verify_link}\"> تحقق من بريدك الإلكتروني </a>",
+    "verify_email_subject": "تأكيد عنوان بريدك الإلكتروني لـ {hostname}",
+    "notification_comment_reply_subject": "✍️ رد على تعليقك من {username}",
+    "notification_comment_reply_body": "<h2>تم الرد على تعليقك</h2><div> {username} : {comment_text} </div> <br> <a href=\"{inbox_link}\">انتقل إلى صندوق الوارد</a>",
+    "notification_mentioned_by_body": "<h2>تمت الإشارة (@) إليك</h2><div> {username} : {comment_text} </div> <br> <a href=\"{inbox_link}\">انتقل إلى صندوق الوارد</a>",
+    "notification_private_message_body": "<h2> رسالة خاصة </h2><div> {username} : {message_text} </div> <br> <a href=\"{inbox_link}\">انتقل إلى صندوق الوارد</a>",
+    "notification_post_reply_subject": "🎯 رد على منشورك من {username}"
+}
