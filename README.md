@@ -5,5 +5,11 @@ Lemmy's RTL fork. [Lemmy](https://github.com/LemmyNet/lemmy) is A link aggregato
 </div>  
 
 ----
+<div dir="rtl"> 
+<h2> 🚨 المستودع انتقل إلى : </h2>
+https://github.com/dwanyaco/diwanya-ui
+</div>
 
-🚧 العمل غير مكتمل هنا ، سأقوم بتحديث الصفحة قريباً.
+## 🚨 Repository were moved to :
+
+https://github.com/dwanyaco/diwanya-ui
